@@ -1,6 +1,6 @@
 # Practical Sessions for Transylvanian Machine Learning Summer School (TMLSS)
 
-The exercises in this repository are used for the pratical sessions of the [Transylvanian Machine Learning Summer School](https://tmlss.ro), happening in Cluj-Napoca, Romania between 16-22 July 2018. They will cover topics from basic knowledge of numpy, tensorflow and sonnet to computer vision, recurrent models, generative models and reinforcement learning.
+The exercises in this repository are used for the practical sessions of the [Transylvanian Machine Learning Summer School](https://tmlss.ro), happening in Cluj-Napoca, Romania between 16-22 July 2018. They will cover topics from basic knowledge of numpy, tensorflow and sonnet to computer vision, recurrent models, generative models and reinforcement learning.
 
 To access the exercises please download them and place them in your GDrive. Use [colab](https://colab.research.google.com) to view or edit them.
 
