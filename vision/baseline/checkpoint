@@ -1,0 +1,2 @@
+model_checkpoint_path: "/usr/local/google/home/viorica/Downloads/baseline/baseline.ckpt"
+all_model_checkpoint_paths: "/usr/local/google/home/viorica/Downloads/baseline/baseline.ckpt"
