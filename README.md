@@ -2,7 +2,7 @@
 
 The exercises in this repository are used for the practical sessions of the [Transylvanian Machine Learning Summer School](https://tmlss.ro), happening in Cluj-Napoca, Romania between 16-22 July 2018. The sessions cover topics from basic knowledge of numpy, tensorflow and sonnet to computer vision, recurrent models, generative models and reinforcement learning.
 
-You are welcome to reuse this material in other courses or schools, but please reach out to 2018tmlss@gmail.com if you plan to do so.
+You are welcome to reuse this material in other courses or schools, but please reach out to 2018tmlss@gmail.com if you plan to do so. We would appreciate if you could acknowledge that the materials come from TMLSS2018 and keep a link in your materials to the original tmlss2018 repo, in case updates occur.
 
 To access the exercises please download them and place them in your Google Drive. The simplest way to do this is to check out the git repository, then use the "Folder Upload" tool in GDrive. Use [colab](https://colab.research.google.com) to view or edit them.
 
