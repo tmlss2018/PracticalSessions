@@ -1,6 +1,10 @@
 # Tutorial on training generative models (VAEs and GANs)
 by Mihaela Rosca 
 
+_Designed for education purposes. Please do not distribute without permission_.
+
+**Questions/Correspondence**: 2018tmlss@gmail.com
+
 ## VAE training tutorial
 This is a tutorial training a [VAE](https://arxiv.org/abs/1312.6114) on MNIST and latent analysis
 
