@@ -2,6 +2,7 @@
 by David Szepesvari
 
 _Designed for education purposes. Please do not distribute without permission_. 
+
 **Questions/Correspondence**: 2018tmlss@gmail.com.
 
 This colaboratory (colab) will help you get prepared for the rest of the practical sessions at TMLSS:
