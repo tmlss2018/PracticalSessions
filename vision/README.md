@@ -1,6 +1,10 @@
 # TMLSS2018: ConvNets and Computer Vision Tutorial
 by Viorica Patraucean
 
+_Designed for education purposes. Please do not distribute without permission_.
+
+**Questions/Correspondence**: 2018tmlss@gmail.com
+
 ## Focus of the tutorial: Study on the efficiency and robustness of convolutional neural networks for image classification
 
 #### Part I (baseline_start.ipynb): Training a baseline convnet classifier
